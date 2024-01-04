@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/tutorial.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/tutorial.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/tutorial.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/tutorial.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/tutorial.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/tutorial.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/tutorial.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/tutorial.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/tutorial.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/tutorial.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/tutorial.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/tutorial.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/tutorial.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/tutorial.forge.test.iml" />
+    </modules>
+  </component>
+</project>

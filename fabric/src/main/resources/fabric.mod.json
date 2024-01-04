@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "tutorial",
+  "version": "${version}",
+
+  "name": "tutorial",
+  "description": "olo :3",
+  "authors": [],
+  "contact": {},
+
+  "license": "MIT",
+  "icon": "icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.dinax.tutorial.tutorial.fabric.TutorialFabric"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.3",
+    "minecraft": ">=1.20",
+    "architectury": ">=7.1.86"
+  }
+}
